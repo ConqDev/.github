@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ConqDev">
-    <img src="./assets/ConqDev banner.png" alt="ConqDev banner" width="100%" />
+    <img src="/assets/ConqDev banner.png" alt="ConqDev banner" width="100%" />
   </a>
   
   <p>
